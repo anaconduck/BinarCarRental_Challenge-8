@@ -5,7 +5,7 @@
 4. CI/CD : Vercel App
 5. Deployment API + Database : Railway
 
-## Github
+## Github (each code)
 - [Frontend](https://sssss/)
 - [Backedn](https://sssss/)
 
