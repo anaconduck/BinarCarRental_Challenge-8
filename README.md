@@ -17,7 +17,7 @@
 - [Backend (https://github.com/anaconduck/Binar-CarRental_BE)](https://github.com/anaconduck/Binar-CarRental_BE)
 
 ## Deployment
-[Click Here](https://sssss/)
+[Click Here](https://binar-car-rental-black.vercel.app/)
 
 ## SuperAdmin
 ```
