@@ -5,16 +5,16 @@
 4. CI/CD : Vercel App
 5. Deployment API + Database : Railway
 
-## Github (each code)
-- [Frontend (https://github.com/anaconduck/Binar-CarRental)](https://github.com/anaconduck/Binar-CarRental)
-- [Backend (https://github.com/anaconduck/Binar-CarRental_BE)](https://github.com/anaconduck/Binar-CarRental_BE)
-
-## Rules
+## ESLINT Rules
 ```
 "@typescript-eslint/no-explicit-any": "off",
 "camelcase": "warn",
 "@typescript-eslint/no-namespace": "off"
 ```
+
+## Github (each code)
+- [Frontend (https://github.com/anaconduck/Binar-CarRental)](https://github.com/anaconduck/Binar-CarRental)
+- [Backend (https://github.com/anaconduck/Binar-CarRental_BE)](https://github.com/anaconduck/Binar-CarRental_BE)
 
 ## Deployment
 [Click Here](https://sssss/)
