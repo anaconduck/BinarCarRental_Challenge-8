@@ -1,4 +1,4 @@
-# Challenge 8
+# Binar: Challenge 08
 
 1. Tulis unit test di dalam repository ini menggunakan `jest`.
 3. Coverage minimal 70%
