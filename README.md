@@ -6,8 +6,8 @@
 5. Deployment API + Database : Railway
 
 ## Github (each code)
-- [Frontend](https://sssss/)
-- [Backedn](https://sssss/)
+- [Frontend (https://github.com/anaconduck/Binar-CarRental)](https://github.com/anaconduck/Binar-CarRental)
+- [Backend (https://github.com/anaconduck/Binar-CarRental_BE)](https://github.com/anaconduck/Binar-CarRental_BE)
 
 ## Deployment
 [Link Deployment](https://sssss/)
