@@ -9,6 +9,13 @@
 - [Frontend (https://github.com/anaconduck/Binar-CarRental)](https://github.com/anaconduck/Binar-CarRental)
 - [Backend (https://github.com/anaconduck/Binar-CarRental_BE)](https://github.com/anaconduck/Binar-CarRental_BE)
 
+## Rules
+```
+"@typescript-eslint/no-explicit-any": "off",
+"camelcase": "warn",
+"@typescript-eslint/no-namespace": "off"
+```
+
 ## Deployment
 [Click Here](https://sssss/)
 
