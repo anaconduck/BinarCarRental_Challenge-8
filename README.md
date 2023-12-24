@@ -12,7 +12,7 @@
 ## Deployment
 [Click Here](https://sssss/)
 
-## Email & Password
+## SuperAdmin
 ```
 email: alex@gmail.com
 password: alex1234
