@@ -16,7 +16,7 @@
 
 ## Github (each code)
 - [Frontend : https://github.com/anaconduck/Binar-CarRental](https://github.com/anaconduck/Binar-CarRental)
-- [Backend : https://github.com/anaconduck/Binar-CarRental_BE](https://github.com/anaconduck/Binar-CarRental_BE)
+- [Backend : https://github.com/anaconduck/Binar-CarRental_BE](https://github.com/anaconduck/Binar-BE)
 
 ## Deployment
 [Click Here](https://binar-car-rental-black.vercel.app/)
