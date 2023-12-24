@@ -6,8 +6,8 @@
 4. Deployment : Vercel + Railway 
 
 ## Github
-[Frontend](https://sssss/)
-[Backedn](https://sssss/)
+- [Frontend](https://sssss/)
+- [Backedn](https://sssss/)
 
 ## Deployment
 [Link Deployment](https://sssss/)
