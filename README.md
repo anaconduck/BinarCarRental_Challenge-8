@@ -10,7 +10,7 @@
 - [Backend (https://github.com/anaconduck/Binar-CarRental_BE)](https://github.com/anaconduck/Binar-CarRental_BE)
 
 ## Deployment
-[Link Deployment](https://sssss/)
+[Click Here](https://sssss/)
 
 ## Email & Password
 ```
