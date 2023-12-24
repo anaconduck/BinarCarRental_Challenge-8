@@ -1,9 +1,9 @@
 # Binar: Challenge 08
 
-1. Tulis unit test di dalam repository ini menggunakan `jest`.
-3. Coverage minimal 70%
-4. CI/CD : Vercel App
-5. Deployment API + Database : Railway
+1. Menerapkan ESLINT
+2. Tulis unit test di dalam repository ini menggunakan `jest`
+3. CI/CD : Vercel App
+4. Deployment API + Database : Railway
 
 ## ESLINT Rules
 ```
