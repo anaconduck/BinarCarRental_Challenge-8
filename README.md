@@ -8,8 +8,10 @@
 ## ESLINT Rules
 ```
 "@typescript-eslint/no-explicit-any": "off",
-"camelcase": "warn",
-"@typescript-eslint/no-namespace": "off"
+"no-useless-catch": "off",
+"camelcase": "off",
+"@typescript-eslint/no-namespace": "off",
+"@typescript-eslint/no-unused-vars": "off"
 ```
 
 ## Github (each code)
