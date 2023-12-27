@@ -15,7 +15,7 @@
 ```
 
 ## Github (each code)
-- [Frontend : https://github.com/anaconduck/Binar-CarRental](https://github.com/anaconduck/Binar-CarRental)
+- [Frontend : https://github.com/anaconduck/Binar-CarRental](https://github.com/anaconduck/Binar-FE)
 - [Backend : https://github.com/anaconduck/Binar-CarRental_BE](https://github.com/anaconduck/Binar-BE)
 
 ## Deployment
